@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+hopsworks
+numpy
+google-cloud-bigquery
+google-auth
+google-api-core
+pyarrow
+comet-ml
